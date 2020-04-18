@@ -1,3 +1,5 @@
+package com.yuan.servlet;
+
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
@@ -19,7 +21,7 @@ public class HelloServlet extends HttpServlet {
         // 2. 调用业务层
 
         // 3. 视图层转发或者重定向
-        req.getRequestDispatcher("/WEB_INF/jsp/test.jsp").forward(req,resp);
+        req.getRequestDispatcher("/WEB-INF/jsp/hello.jsp").forward(req,resp);
 
     }
 

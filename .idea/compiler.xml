@@ -9,5 +9,6 @@
         <module name="springmvc-01-serlvet" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel target="14" />
   </component>
 </project>
