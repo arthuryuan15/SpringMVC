@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="springmvc_03_annotation" />
+        <module name="springmvc_05_json" />
         <module name="springmvc_02_hello" />
         <module name="springmvc_04_controller" />
         <module name="springmvc-01-serlvet" />
