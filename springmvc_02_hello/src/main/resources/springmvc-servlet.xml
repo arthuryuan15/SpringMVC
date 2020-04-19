@@ -21,6 +21,4 @@
         <property name="suffix" value=".jsp"/>
     </bean>
 
-    <!--Handler--><bean id="/hello" class="com.yuan.controller.HelloController"/>
-
 </beans>
