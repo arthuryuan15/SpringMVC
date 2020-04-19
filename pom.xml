@@ -12,6 +12,7 @@
         <module>springmvc-01-serlvet</module>
         <module>springmvc_02_hello</module>
         <module>springmvc_03_annotation</module>
+        <module>springmvc_04_controller</module>
     </modules>
 
     <dependencies>

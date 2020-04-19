@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="springmvc_03_annotation" />
         <module name="springmvc_02_hello" />
+        <module name="springmvc_04_controller" />
         <module name="springmvc-01-serlvet" />
       </profile>
     </annotationProcessing>
